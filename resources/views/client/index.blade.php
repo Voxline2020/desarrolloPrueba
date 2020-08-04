@@ -10,6 +10,7 @@
 	<div class="row">
 		{{-- <div class="col-sm-12 col-md-6">
 			<h4>cambio en el index</h4>
+			<h4>cambio en la nueva rama 2</h4>
 			<div id="chart_div" style="width:650; height:500"></div>
 		</div> --}}
 
